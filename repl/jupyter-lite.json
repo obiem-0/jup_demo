@@ -1,5 +1,6 @@
 {
     "jupyter-lite-schema-version": 0,
+    "jupyterlite_contents": ["./content/", "p5.ipynb"],
     "jupyter-config-data": {
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
